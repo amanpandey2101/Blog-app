@@ -19,7 +19,7 @@ const AddPostForm = () => {
 
   return (
     <div className="my-4">
-      <h2 className="text-xl mb-2 bg-sky-500 p-4 rounded-xl">Add a New Post</h2>
+      <h2 className="text-xl mb-2 bg-sky-500 p-4 rounded-xl font-mono">Add a New Post</h2>
       <div>
         <input
           type="text"
